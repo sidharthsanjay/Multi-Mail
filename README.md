@@ -15,7 +15,7 @@ Attachment Handling: Attaches the resume file (SIDHARTH_SAPKAAL.pdf) securely in
 Loop-Based Dispatch: Iterates through the recipient list and sends emails in a loop with progress logs.
 
 📂 Files Involved:
-example.pdf: Resume file located locally, attached to each email.
+example.pdf: PDF file located locally, attached to each email.
 
 🛡️ Security Note:
 The password used is a Gmail App Password, not the actual Gmail account password, to enhance security and comply with Google's email policy.
